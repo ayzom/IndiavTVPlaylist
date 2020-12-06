@@ -224,3 +224,9 @@ http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="" group-title="INDIA",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/PuRTXAj.png" group-title="USA",ZEE CINEMA
+http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/ibXkhex.jpg" group-title="USA",ZEE SMILE
+http://z5amshls.akamaized.net/smileusa/tracks-v1a1/playlist.m3u8
