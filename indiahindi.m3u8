@@ -1,0 +1,226 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="******************** INDIA ***********",******************* INDIA ***********
+
+#EXTINF:-1 tvg-id="" tvg-name="Aajtak" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/28/Aaj_tak_logo.png" group-title="INDIA",Aajtak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zee news" tvg-logo="" group-title="INDIA",Zee news
+https://zmcl-live.akamaized.net/zeenewsclean_mbr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ABP Hindi" tvg-logo="" group-title="INDIA",ABP Hindi
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Republic Bharat" tvg-logo="https://i.imgur.com/Z3PgblG.png" group-title="INDIA",Republic Bharat
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Republic TV" tvg-logo="https://i.imgur.com/PvI2PCX.png" group-title="INDIA",Republic TV
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ABP Hindi" tvg-logo="" group-title="INDIA",ABP Hindi
+https://m-c02-j2apps.s.loris.llnwd.net/hls/7014.ABPNews.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="India TV" tvg-logo="" group-title="INDIA",India TV
+https://m-c02-j2apps.s.loris.llnwd.net/hls/0091.IndiaTV.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="INDIA",News 24
+https://m-c29-j2apps.s.llnwi.net/hls/0344.News24.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IndiaNews" tvg-logo="" group-title="INDIA",IndiaNews
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NewsNation" tvg-logo="" group-title="INDIA",NewsNation
+https://m-c02-j2apps.s.loris.llnwd.net/hls/1062.NewsNation.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NewsIndia24X7" tvg-logo="" group-title="INDIA",NewsIndia24X7
+https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="News 24" tvg-logo="" group-title="INDIA",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 tvg-id="India TV-IN" tvg-name="India TV" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="INDIA",India TV
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Times Now HD" tvg-logo="https://i.imgur.com/mI3NURu.png" group-title="INDIA",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="TimesNow" tvg-logo="" group-title="INDIA",TimesNow
+https://m-c048-j2apps.s.llnwi.net/hls/0087.TimesNow.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ETNow" tvg-logo="" group-title="INDIA",ETNow
+https://m-c048-j2apps.s.llnwi.net/hls/0524.ETNow.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MirrorNow" tvg-logo="" group-title="INDIA",MirrorNow
+https://m-c048-j2apps.s.llnwi.net/hls/3873.MirrorNow.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Awaaz" tvg-logo="https://i.imgur.com/qMGgnjb.png" group-title="INDIA",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",CNBC Bajar
+https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",CNBC TV18
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="INDIA",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="bollywood-classic" tvg-logo="" group-title="INDIA",bollywood-classic
+https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="" group-title="INDIA",9XM
+https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Mastiii" tvg-logo="" group-title="INDIA",Mastiii
+https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MusicIndia" tvg-logo="" group-title="INDIA",MusicIndia
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="9XJalwa" tvg-logo="" group-title="INDIA",9XJalwa
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SangeetBhojpuri" tvg-logo="" group-title="INDIA",SangeetBhojpuri
+https://m-c01-j2apps.s.llnwi.net/hls/0432.SangeetBhojpuri.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SangeetMarathi" tvg-logo="" group-title="INDIA",SangeetMarathi
+https://m-c02-j2apps.s.loris.llnwd.net/hls/3724.SangeetMarathi.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="9XJhakaas" tvg-logo="" group-title="INDIA",9XJhakaas
+https://m-c01-j2apps.s.llnwi.net/live/0750.9XJhakaas.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="9XTashan" tvg-logo="" group-title="INDIA",9XTashan
+https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MH1" tvg-logo="" group-title="INDIA",MH1
+https://m-c049-j2apps.s.llnwi.net/hls/0197.MH1.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="WahPunjabi" tvg-logo="" group-title="INDIA",WahPunjabi
+https://m-c03-j2apps.s.llnwi.net/hls/6492.WahPunjabi.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="PTunes" tvg-logo="" group-title="INDIA",PTunes
+https://m-c037-j2apps.s.llnwi.net/hls/6432.PTunes.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tunes6" tvg-logo="" group-title="INDIA",Tunes6
+https://m-c18-j2apps.s.llnwi.net/hls/3731.Tunes6.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ShowBox" tvg-logo="" group-title="INDIA",ShowBox
+https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GabruTV" tvg-logo="" group-title="INDIA",GabruTV
+https://m-c03-j2apps.s.llnwi.net/hls/7045.GabruTV.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BalleBalle" tvg-logo="" group-title="INDIA",BalleBalle
+https://m-c07-j2apps.s.llnwi.net/hls/7058.BalleBalle.in.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SkystarMovies" tvg-logo="" group-title="INDIA",SkystarMovies
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BFlixMovies" tvg-logo="" group-title="INDIA",BFlixMovies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HousefullAction" tvg-logo="" group-title="INDIA",HousefullAction
+https://m-c049-j2apps.s.llnwi.net/hls/4704.HousefullAction.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ManoranjanMovies" tvg-logo="" group-title="INDIA",ManoranjanMovies
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Filmy" tvg-logo="" group-title="INDIA",Filmy
+https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MahaMovie" tvg-logo="" group-title="INDIA",MahaMovie
+https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ManoranjanTV" tvg-logo="" group-title="INDIA",ManoranjanTV
+https://m-c048-j2apps.s.llnwi.net/hls/0449.ManoranjanTV.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DabanggTV" tvg-logo="" group-title="INDIA",DabanggTV
+https://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="OscarMoviesBhojpuri" tvg-logo="" group-title="INDIA",OscarMoviesBhojpuri
+https://m-c16-j2apps.s.llnwi.net/hls/1785.OscarMoviesBhojpuri.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="HousefullMovie" tvg-logo="" group-title="INDIA",HousefullMovie
+https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Zoom" tvg-logo="" group-title="INDIA",Zoom
+https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DDUP" tvg-logo="" group-title="INDIA",DDUP
+https://m-c16-j2apps.s.llnwi.net/hls/0290.DDUP.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DDNational" tvg-logo="" group-title="INDIA",DDNational
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_dvr.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DDBihar" tvg-logo="" group-title="INDIA",DDBihar
+https://m-c15-j2apps.s.llnwi.net/hls/0281.DDBihar.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Firangi" tvg-logo="" group-title="INDIA",Firangi
+https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Dishum" tvg-logo="" group-title="INDIA",Dishum
+https://m-c29-j2apps.s.llnwi.net/hls/5332.Dishum.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="AnjanTV" tvg-logo="" group-title="INDIA",AnjanTV
+https://m-c04-j2apps.s.llnwi.net/hls/1359.AnjanTV.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="E24" tvg-logo="" group-title="INDIA",E24
+https://m-c29-j2apps.s.llnwi.net/hls/0389.E24.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ShemarooMarathibana" tvg-logo="" group-title="INDIA",ShemarooMarathibana
+https://m-c06-j2apps.s.llnwi.net/hls/7072.ShemarooMarathibana.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FunTV" tvg-logo="" group-title="INDIA",FunTV
+https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zindagi TV" tvg-logo="" group-title="INDIA",Zindagi TV
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DD National" tvg-logo="" group-title="INDIA",DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+
+#EXTINF:-1 tvg-id="DD News-IN" tvg-name="DD News" tvg-logo="https://i.imgur.com/QCE6XYu.jpg" group-title="INDIA",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DD News" tvg-logo="" group-title="INDIA",DD News
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DD Sports" tvg-logo="" group-title="INDIA",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
