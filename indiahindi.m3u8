@@ -563,21 +563,6 @@ https://wxca.cf/j/Sony_Yay_Hindi/master.m3u8?signature=e1032cebe2bf2fa756bb5e5c1
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
 https://wxca.cf/j/Epic_HD/master.m3u8?signature=fc19d7f3ac2b07f15dc739a21daa746af2302b6d&unique=defcabaafa1daa620a8bd32d70129477|User-Agent=KAIOS
 
-#EXTINF:105 tvg-id="866" tvg-name="Jio Exclusive HD" group-title="JioTV  English  Entertainment" tvg-chno="196" tvg-logo="https://assets.wxca.cf/images/j/OaieWjiLrj.png",Jio Exclusive HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
-https://wxca.cf/j/Jio_Exclusive/master.m3u8?signature=092b31d3f14dcc4d9b9376a01b74a7ce9e8b7bb7&unique=defcabaafa1daa620a8bd32d70129477|User-Agent=KAIOS
-
-
-#EXTINF:110 tvg-id="1528" tvg-name="Network 10" group-title="News  JioTV+  Hindi" tvg-chno="221" tvg-logo="https://assets.wxca.cf/images/j/GJZUovmRRw.png",Network 10
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=KAIOS
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://wxca.cf/j/wv/Network_10_BTS?signature=db6959cd28bbdb9e4cc59eab1cb3389cfbff5bae&unique=defcabaafa1daa620a8bd32d70129477
-http://jiotv.live.cdn.jio.com/bpk-tv/Network_10_BTS/output/index.mpd|User-Agent=KAIOS
-
 #EXTINF:111 tvg-id="1530" tvg-name="Sony Pix SD" group-title="English  Movies  JioTV" tvg-chno="222" tvg-logo="https://assets.wxca.cf/images/j/MUiKpOwfqt.png",Sony Pix SD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
