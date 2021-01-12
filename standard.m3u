@@ -1,0 +1,1805 @@
+#EXTM3U x-tvg-url="https://botallen.live/epg.xml.gz"
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="472" tvg-name="And TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/HaIioVXlTk.png" tvg-chno="1" group-title="Entertainment",And TV HD
+https://botallen.live/j/And_TV_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="167" tvg-name="Zee TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/FMOHehHJwt.png" tvg-chno="2" group-title="Entertainment",Zee TV HD
+https://botallen.live/j/Zee_TV_HD/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Colors_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/tEjAMpwRiI.png" tvg-chno="3" group-title="Entertainment",Colors HD
+https://botallen.live/j/Colors_HD_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1477" tvg-name="Colors Cineplex HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/FKXLLtzdXI.png" tvg-chno="4" group-title="Movies",Colors Cineplex HD
+https://botallen.live/j/Colors_Cineplex_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="291" tvg-name="Sony HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/rtwLQQnflu.png" tvg-chno="5" group-title="Entertainment",Sony HD
+https://botallen.live/j/Sony_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="154" tvg-name="Sony SAB" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/mToXWIcPmy.png" tvg-chno="6" group-title="Entertainment",Sony SAB
+https://botallen.live/j/Sony_SAB/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="471" tvg-name="Sony SAB HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/IMRhVzJXgz.png" tvg-chno="7" group-title="Entertainment",Sony SAB HD
+https://botallen.live/j/Sony_SAB_HD/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_National_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="202" tvg-name="DD National" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/MOevNqSYYT.png" tvg-chno="8" group-title="Entertainment",DD National
+https://botallen.live/j/DD_National_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="473" tvg-name="Zee Anmol" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/OpMbHDkiQq.png" tvg-chno="9" group-title="Entertainment",Zee Anmol
+https://botallen.live/j/Zee_Anmol/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Rishtey_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="279" tvg-name="Rishtey" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/dbJHqBvRmo.png" tvg-chno="10" group-title="Entertainment",Rishtey
+https://botallen.live/j/Rishtey_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="474" tvg-name="Sony Pal" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/rbwwEwsHey.png" tvg-chno="11" group-title="Entertainment",Sony Pal
+https://botallen.live/j/Sony_Pal/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="527" tvg-name="Investigation Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/uTpmcLwqvD.PNG" tvg-chno="12" group-title="Entertainment",Investigation Discovery
+https://botallen.live/j/ID/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Kisan_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="583" tvg-name="DD Kisan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/nGFKgDQNEU.png" tvg-chno="13" group-title="Infotainment",DD Kisan
+https://botallen.live/j/DD_Kisan_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="963" tvg-name="Arre HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/hzDjbAgAiF.png" tvg-chno="15" group-title="Entertainment",Arre HD
+https://botallen.live/j/Arre/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Colors_Infinity_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1158" tvg-name="Colors Infinity HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WmiWcFeNvB.png" tvg-chno="16" group-title="Entertainment",Colors Infinity HD
+https://botallen.live/j/Colors_Infinity_HD_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Comedy_Central_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1157" tvg-name="Comedy Central HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/EbXUrwIEPG.png" tvg-chno="17" group-title="Entertainment",Comedy Central HD
+https://botallen.live/j/Comedy_Central_HD_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="841" tvg-name="Housefull Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/IZYwZnWxIa.png" tvg-chno="18" group-title="Movies",Housefull Movies
+https://botallen.live/j/Housefull_Movies/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jio_Cricket
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="430" tvg-name="Jio Cricket English HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/froAdDqrjm.png" tvg-chno="19" group-title="Sports",Jio Cricket English HD
+https://botallen.live/j/Jio_Cricket/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/India_Science_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1433" tvg-name="India Science" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/haLZWWbqvb.png" tvg-chno="20" group-title="Educational",India Science
+https://botallen.live/j/India_Science_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jio_Football_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1156" tvg-name="Jio Football HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/NiJhvumjzs.png" tvg-chno="21" group-title="Sports",Jio Football HD
+https://botallen.live/j/Jio_Football_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="476" tvg-name="Sony Max HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/JBTjQEpkxg.png" tvg-chno="22" group-title="Movies",Sony Max HD
+https://botallen.live/j/Sony_Max_HD/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jio_Cricket_1_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1160" tvg-name="Jio Cricket 1 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/afulSutUQV.png" tvg-chno="24" group-title="Sports",Jio Cricket 1 HD
+https://botallen.live/j/Jio_Cricket_1_HD_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jio_Football_Hindi_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1234" tvg-name="Jio Football Hindi HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/idxDAZznqW.png" tvg-chno="25" group-title="Sports",Jio Football Hindi HD
+https://botallen.live/j/Jio_Football_Hindi_HD_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="889" tvg-name="Jio Sports HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/igYmaYVZSj.png" tvg-chno="29" group-title="Sports",Jio Sports HD
+https://botallen.live/j/Jio_Sports/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="165" tvg-name="Zee Cinema HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/ugzdUsNPDu.png" tvg-chno="30" group-title="Movies",Zee Cinema HD
+https://botallen.live/j/Zee_Cinema_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="484" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/IQCGpEGUCZ.png" tvg-chno="32" group-title="Movies",Zee Cinema
+https://botallen.live/j/Zee_Cinema/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jio_Football_1_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1165" tvg-name="Jio Football 1 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/XqGDtVnzea.png" tvg-chno="34" group-title="Sports",Jio Football 1 HD
+https://botallen.live/j/Jio_Football_1_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jio_Football_3_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1168" tvg-name="Jio Football 3 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/KravJTpegN.png" tvg-chno="35" group-title="Sports",Jio Football 3 HD
+https://botallen.live/j/Jio_Football_3_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jio_Football_2_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1167" tvg-name="Jio Football 2 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/POdkBVHsdv.png" tvg-chno="36" group-title="Sports",Jio Football 2 HD
+https://botallen.live/j/Jio_Football_2_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="185" tvg-name="And Pictures HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/UbEJodncvP.png" tvg-chno="37" group-title="Movies",And Pictures HD
+https://botallen.live/j/And_Pictures_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="487" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/QthzkHvoIn.png" tvg-chno="38" group-title="Movies",Zee Bollywood
+https://botallen.live/j/Zee_Classic/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/B4U_Movies_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="182" tvg-name="B4U Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/LkBpdGpxlS.png" tvg-chno="39" group-title="Movies",B4U Movies
+https://botallen.live/j/B4U_Movies_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="483" tvg-name="Sony MAX2" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/kFayUEjHpQ.png" tvg-chno="40" group-title="Movies",Sony MAX2
+https://botallen.live/j/Sony_MAX2/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="488" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/DMHOVtarQe.png" tvg-chno="41" group-title="Movies",Zee Action
+https://botallen.live/j/Zee_Action/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Enterr_10_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="485" tvg-name="Enterr 10" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/KcrJKtHrAW.png" tvg-chno="42" group-title="Movies",Enterr 10
+https://botallen.live/j/Enterr_10_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="415" tvg-name="Zee Anmol Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/fvoueyIogX.png" tvg-chno="43" group-title="Movies",Zee Anmol Cinema
+https://botallen.live/j/Zee_Anmol_Cinema/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="482" tvg-name="Colors Cineplex" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/dbhyDIATqf.png" tvg-chno="44" group-title="Movies",Colors Cineplex
+https://botallen.live/j/Colors_Cineplex/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Maha_Movies_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="809" tvg-name="Maha Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/PfEmkzbLue.png" tvg-chno="45" group-title="Movies",Maha Movies
+https://botallen.live/j/Maha_Movies_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="762" tvg-name="Sony Pix HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/jJgudjvbHJ.png" tvg-chno="46" group-title="Movies",Sony Pix HD
+https://botallen.live/j/Sony_Pix_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="833" tvg-name="HBO HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/FNMEyyZrvJ.png" tvg-chno="47" group-title="Movies",HBO HD
+https://botallen.live/j/HBO_HD/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Box_Cinema_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1276" tvg-name="Box Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/fcgZYtCnyf.png" tvg-chno="48" group-title="Movies",Box Cinema
+https://botallen.live/j/Box_Cinema_MOB/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="834" tvg-name="WB" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/UIeJhfUbvx.png" tvg-chno="49" group-title="Movies",WB
+https://botallen.live/j/WB/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="783" tvg-name="K News India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/UmNIYUhbgr.png" tvg-chno="50" group-title="News",K News India
+https://botallen.live/j/K_News_India/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="162" tvg-name="Ten 1 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/nyVwdNMhWV.png" tvg-chno="51" group-title="Sports",Ten 1 HD
+https://botallen.live/j/Ten_HD/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Channel_One_News_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="920" tvg-name="Channel One News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/HWHuJobmVA.png" tvg-chno="52" group-title="News",Channel One News
+https://botallen.live/j/Channel_One_News_MOB/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="891" tvg-name="Ten 2 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/kLOAmYXpwQ.png" tvg-chno="53" group-title="Sports",Ten 2 HD
+https://botallen.live/j/Ten2_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="514" tvg-name="Ten 1" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/gGzOmmWmAQ.png" tvg-chno="54" group-title="Sports",Ten 1
+https://botallen.live/j/Ten_1/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Hi_Dost_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1232" tvg-name="Hi Dost!" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/DYJVsgoNhi.png" tvg-chno="55" group-title="Entertainment",Hi Dost!
+https://botallen.live/j/Hi_Dost_MOB/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="958" tvg-name="DNN" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/MXaliaGenQ.png" tvg-chno="56" group-title="News",DNN
+https://botallen.live/j/DNN/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Sports_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="204" tvg-name="DD Sports" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/NIFfXAjSMJ.png" tvg-chno="57" group-title="Sports",DD Sports
+https://botallen.live/j/DD_Sports_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="523" tvg-name="Ten 2" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/znDkILNtdd.png" tvg-chno="58" group-title="Sports",Ten 2
+https://botallen.live/j/Ten_2/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="524" tvg-name="Ten 3" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/hrQotjQTvQ.png" tvg-chno="59" group-title="Sports",Ten 3
+https://botallen.live/j/Ten_3/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="892" tvg-name="Ten 3 HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WevoOJBBlD.png" tvg-chno="60" group-title="Sports",Ten 3 HD
+https://botallen.live/j/Ten3_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="155" tvg-name="Sony Six HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/ZmASMXeAQj.png" tvg-chno="61" group-title="Sports",Sony Six HD
+https://botallen.live/j/Six_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1294" tvg-name="Eurosport" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WNjYyYoMLp.png" tvg-chno="62" group-title="Sports",Eurosport
+https://botallen.live/j/Dsports/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="525" tvg-name="Sony Six SD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/kepjewigTd.png" tvg-chno="63" group-title="Sports",Sony Six SD
+https://botallen.live/j/Sony_Six_SD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="875" tvg-name="Eurosport HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/OYbAuqVgVY.png" tvg-chno="66" group-title="Sports",Eurosport HD
+https://botallen.live/j/Dsports_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1315" tvg-name="HHDL" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/iGAGhaNUgs.png" tvg-chno="68" group-title="Devotional",HHDL
+https://botallen.live/j/HHDL/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1338" tvg-name="RT TV" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WEYAIwHOKi.png" tvg-chno="69" group-title="News",RT TV
+https://botallen.live/j/RT_TV/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1337" tvg-name="Top Tutor" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/Xqxnmvdxdh.png" tvg-chno="70" group-title="Educational",Top Tutor
+https://botallen.live/j/Top_Tutor/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Utkarsh_Primary_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1434" tvg-name="Utkarsh Primary" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/TdFMLQWVUj.png" tvg-chno="72" group-title="Educational",Utkarsh Primary
+https://botallen.live/j/Utkarsh_Primary_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1430" tvg-name="Jio KIDS" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/SewJoaeUcv.png" tvg-chno="73" group-title="Kids",Jio KIDS
+https://botallen.live/j/Jio_KIDS/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Utkarsh_Middle_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1435" tvg-name="Utkarsh HSBTE" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WkqjPxiCaG.png" tvg-chno="74" group-title="Educational",Utkarsh HSBTE
+https://botallen.live/j/Utkarsh_Middle_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Utkarsh_Secondary_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1436" tvg-name="Utkarsh Secondary" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/JdGyWKXBTt.png" tvg-chno="75" group-title="Educational",Utkarsh Secondary
+https://botallen.live/j/Utkarsh_Secondary_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Utkarsh_Higher_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1437" tvg-name="Utkarsh Higher" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/PQVFdSskSI.png" tvg-chno="76" group-title="Educational",Utkarsh Higher
+https://botallen.live/j/Utkarsh_Higher_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1463" tvg-name="Shree Ganesh - Moti Doongri Jaipur" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/quSHhaNyMe.png" tvg-chno="79" group-title="JioDarshan",Shree Ganesh - Moti Doongri Jaipur
+https://botallen.live/j/Moti_Doongri/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ABP_News_India_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="177" tvg-name="ABP News India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/IfBpaItMMP.png" tvg-chno="82" group-title="News",ABP News India
+https://botallen.live/j/ABP_News_India_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="504" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/NcJQkFXEei.png" tvg-chno="83" group-title="News",Zee News
+https://botallen.live/j/Zee_News/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_News_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="203" tvg-name="DD News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/bOSQgknZmb.png" tvg-chno="84" group-title="News",DD News
+https://botallen.live/j/DD_News_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Aaj_Tak_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="173" tvg-name="Aaj Tak" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/lluySSQKyH.png" tvg-chno="85" group-title="News",Aaj Tak
+https://botallen.live/j/Aaj_Tak_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/India_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="235" tvg-name="India TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/BmAAXkUiyC.png" tvg-chno="86" group-title="News",India TV
+https://botallen.live/j/India_TV_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/News_24_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="501" tvg-name="News 24" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/rBeZGagAuS.png" tvg-chno="87" group-title="News",News 24
+https://botallen.live/j/News_24_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/IBN_7_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="231" tvg-name="News 18 India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/YtHvnnQBtd.png" tvg-chno="88" group-title="News",News 18 India
+https://botallen.live/j/IBN_7_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="652" tvg-name="Zee Hindustan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/frksIiulET.png" tvg-chno="89" group-title="News",Zee Hindustan
+https://botallen.live/j/Zee_SANGAM/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/India_news_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="498" tvg-name="India news" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/LluotoWfyy.png" tvg-chno="90" group-title="News",India news
+https://botallen.live/j/India_news_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/News_Nation_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="499" tvg-name="News Nation" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/annyXZguXZ.png" tvg-chno="91" group-title="News",News Nation
+https://botallen.live/j/News_Nation_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Total_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="855" tvg-name="Total TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/iqearNsQgX.png" tvg-chno="92" group-title="News",Total TV
+https://botallen.live/j/Total_TV_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="771" tvg-name="Live Today" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/hOrLQAGIVC.png" tvg-chno="93" group-title="News",Live Today
+https://botallen.live/j/Live_Today/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="506" tvg-name="Sahara Samay Rastriya" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/sQiIRzDVdu.png" tvg-chno="94" group-title="News",Sahara Samay Rastriya
+https://botallen.live/j/Sahara_Samay_Rastriya/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ABP_Ganga_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1205" tvg-name="ABP Ganga" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/QffsuVpsgL.png" tvg-chno="95" group-title="News",ABP Ganga
+https://botallen.live/j/ABP_Ganga_MOB/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="837" tvg-name="Euro News" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/EXAgeGSUfL.png" tvg-chno="96" group-title="News",Euro News
+https://botallen.live/j/Euro_News/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="791" tvg-name="Taaza TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/xXJkTgzsEm.png" tvg-chno="97" group-title="News",Taaza TV
+https://botallen.live/j/Taaza_TV/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/India_News_Haryana_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="516" tvg-name="India News Haryana" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/BOKHtSiNJP.png" tvg-chno="98" group-title="News",India News Haryana
+https://botallen.live/j/India_News_Haryana_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="831" tvg-name="Living India News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/kRrcuvUaRX.png" tvg-chno="99" group-title="News",Living India News
+https://botallen.live/j/Living_India_News/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Sudarshan_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="518" tvg-name="Sudarshan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/hsyaOUpmAW.png" tvg-chno="100" group-title="News",Sudarshan
+https://botallen.live/j/Sudarshan_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Kashish_News_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="770" tvg-name="Kashish News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/BbkZrYRNYV.png" tvg-chno="101" group-title="News",Kashish News
+https://botallen.live/j/Kashish_News_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="851" tvg-name="SMBC TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/yZkhpJWtCw.png" tvg-chno="102" group-title="News",SMBC TV
+https://botallen.live/j/SMBC_TV/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="507" tvg-name="SAHARA SAMAY MP" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/xmycYgewqL.png" tvg-chno="103" group-title="News",SAHARA SAMAY MP
+https://botallen.live/j/SAHARA_SAMAY_MP/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Sadhna_News_Plus_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="519" tvg-name="Sadhna News Plus" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/FqqQlLGHCg.png" tvg-chno="104" group-title="News",Sadhna News Plus
+https://botallen.live/j/Sadhna_News_Plus_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="508" tvg-name="SAHARA SAMAY UP" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/QmlPjKtIWl.png" tvg-chno="105" group-title="News",SAHARA SAMAY UP
+https://botallen.live/j/SAHARA_SAMAY_UP/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="509" tvg-name="Sahara Samay Bihar" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/IDMPPJIypf.png" tvg-chno="106" group-title="News",Sahara Samay Bihar
+https://botallen.live/j/Sahara_Samay_Bihar/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="793" tvg-name="Samay Rajasthan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/TisuYsYApt.png" tvg-chno="107" group-title="News",Samay Rajasthan
+https://botallen.live/j/Samay_Rajasthan/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="789" tvg-name="JK 24x7 News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/lBUuXahEzP.png" tvg-chno="108" group-title="News",JK 24x7 News
+https://botallen.live/j/JK_24x7_News/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Mh_One_News_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="511" tvg-name="Mh One News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/pyNkjNxvnu.png" tvg-chno="109" group-title="News",Mh One News
+https://botallen.live/j/Mh_One_News_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/India_News_UP_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="512" tvg-name="India News UP" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/JzFwxWxOsh.png" tvg-chno="110" group-title="News",India News UP
+https://botallen.live/j/India_News_UP_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/News_State_UK_UP_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="792" tvg-name="News State UK UP" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/ULwdjvVkzd.png" tvg-chno="111" group-title="News",News State UK UP
+https://botallen.live/j/News_State_UK_UP_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/India_News_Rajasthan_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="513" tvg-name="India News Rajasthan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/CKnhXxOHJl.png" tvg-chno="112" group-title="News",India News Rajasthan
+https://botallen.live/j/India_News_Rajasthan_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/India_News_MP_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="515" tvg-name="India News MP" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/kqePbxZNuU.png" tvg-chno="113" group-title="News",India News MP
+https://botallen.live/j/India_News_MP_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="572" tvg-name="Zee UP UK" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/OQLPzXQZwJ.png" tvg-chno="114" group-title="News",Zee UP UK
+https://botallen.live/j/Living_Foodz/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/India_Voice_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="788" tvg-name="India Voice" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/tJbqJZlzKn.png" tvg-chno="117" group-title="News",India Voice
+https://botallen.live/j/India_Voice_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Hindi_Khabar_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="808" tvg-name="Hindi Khabar" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/QNlfGNXLuP.png" tvg-chno="118" group-title="News",Hindi Khabar
+https://botallen.live/j/Hindi_Khabar_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="502" tvg-name="Tez" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/AMaCSZfZyH.png" tvg-chno="119" group-title="News",Tez
+https://botallen.live/j/Tez/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="657" tvg-name="Zee Business" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WMKUJfFUZe.png" tvg-chno="120" group-title="Business",Zee Business
+https://botallen.live/j/Zee_Business/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/CNBC_Awaaz_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="190" tvg-name="CNBC Awaaz" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/cprGqnDSky.png" tvg-chno="121" group-title="Business",CNBC Awaaz
+https://botallen.live/j/CNBC_Awaaz_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/evidya_12_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1532" tvg-name="PM e Vidya 12" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/HYAGgVwFYK.png" tvg-chno="122" group-title="Educational",PM e Vidya 12
+https://botallen.live/j/evidya_12_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Loksabha_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="522" tvg-name="Loksabha TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/mQoYKPwbzw.png" tvg-chno="123" group-title="News",Loksabha TV
+https://botallen.live/j/Loksabha_TV_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jan_TV_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="768" tvg-name="Jan TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/YaMKHrjZIF.png" tvg-chno="124" group-title="News",Jan TV
+https://botallen.live/j/Jan_TV_MOB/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/News_India_24_X_7_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="850" tvg-name="News India 24x7" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/XUuDNqNKcI.png" tvg-chno="125" group-title="News",News India 24x7
+https://botallen.live/j/News_India_24_X_7_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Rajyasabha_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="520" tvg-name="DD Rajyasabha" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/gffQwWGnOG.png" tvg-chno="126" group-title="News",DD Rajyasabha
+https://botallen.live/j/DD_Rajyasabha_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/India_Today_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="493" tvg-name="India Today" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/pAddiiFnJd.png" tvg-chno="127" group-title="News",India Today
+https://botallen.live/j/India_Today_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="412" tvg-name="Wion" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/CccImEXFtd.png" tvg-chno="128" group-title="News",Wion
+https://botallen.live/j/Wion/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/News_X_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="495" tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/qupPmzGZfC.png" tvg-chno="129" group-title="News",News X
+https://botallen.live/j/News_X_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/CNN_NEWS_18_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="492" tvg-name="CNN NEWS 18" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/ZmOyUgFcyj.png" tvg-chno="130" group-title="News",CNN NEWS 18
+https://botallen.live/j/CNN_NEWS_18_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_India_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="528" tvg-name="DD India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/ZyiABYEBbP.png" tvg-chno="131" group-title="Entertainment",DD India
+https://botallen.live/j/DD_India_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/CNBC_Tv18_Prime_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="143" tvg-name="CNBC Tv18 Prime HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/jqWgcTTsqw.png" tvg-chno="132" group-title="Business",CNBC Tv18 Prime HD
+https://botallen.live/j/CNBC_Tv18_Prime_HD_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Republic_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="858" tvg-name="Republic TV" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WgejdEikTx.png" tvg-chno="133" group-title="News",Republic TV
+https://botallen.live/j/Republic_TV_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/CNBC_Tv_18_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="489" tvg-name="CNBC Tv 18" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/cRUHMAMwOT.png" tvg-chno="134" group-title="Business",CNBC Tv 18
+https://botallen.live/j/CNBC_Tv_18_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/News_9_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="656" tvg-name="News 9" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/pbghtDWLIR.png" tvg-chno="135" group-title="News",News 9
+https://botallen.live/j/News_9_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="142" tvg-name="BBC World News" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/UUICwXLLud.png" tvg-chno="136" group-title="News",BBC World News
+https://botallen.live/j/BBC_World_News/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/AL_Jazeera_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="494" tvg-name="AL Jazeera" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/CDnDymnwdM.png" tvg-chno="137" group-title="News",AL Jazeera
+https://botallen.live/j/AL_Jazeera_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/CNN_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="193" tvg-name="CNN" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/cwwjUbJeeJ.png" tvg-chno="138" group-title="News",CNN
+https://botallen.live/j/CNN_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="815" tvg-name="Sonic Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/FnJpgPxXzw.png" tvg-chno="139" group-title="Kids",Sonic Hindi
+https://botallen.live/j/sonic_Hindi/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Channel_News_Asia_International_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="764" tvg-name="Channel News Asia International" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/FbyqVdXCVP.png" tvg-chno="140" group-title="News",Channel News Asia International
+https://botallen.live/j/Channel_News_Asia_International_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/TV_5_Monde_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="885" tvg-name="TV5 Monde" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/NWeuxSyzMw.png" tvg-chno="142" group-title="News",TV5 Monde
+https://botallen.live/j/TV_5_Monde_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/dw_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="496" tvg-name="dw" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/mqsBFoEUWz.png" tvg-chno="143" group-title="News",dw
+https://botallen.live/j/dw_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="554" tvg-name="Discovery Kids 2" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/fKMnzXvUKZ.png" tvg-chno="144" group-title="Kids",Discovery Kids 2
+https://botallen.live/j/Discovery_Kids_2/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="545" tvg-name="Nick Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/yXbhLadCcC.png" tvg-chno="162" group-title="Kids",Nick Hindi
+https://botallen.live/j/Nick_Hindi/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1079" tvg-name="CN HD+ English" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/PEzDoJqMzW.png" tvg-chno="164" group-title="Kids",CN HD+ English
+https://botallen.live/j/CN_HD_English/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="816" tvg-name="Cartoon Network Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WRCMGeeSkQ.png" tvg-chno="165" group-title="Kids",Cartoon Network Hindi
+https://botallen.live/j/Cartoon_Network_Hindi/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="559" tvg-name="Pogo Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/rTXzJGLpKN.png" tvg-chno="166" group-title="Kids",Pogo Hindi
+https://botallen.live/j/Pogo_Hindi/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Nick_HD_Plus_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1226" tvg-name="Nick HD+" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/JTDaCYHEPa.png" tvg-chno="168" group-title="Kids",Nick HD+
+https://botallen.live/j/Nick_HD_Plus_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="547" tvg-name="Nickelodeon" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/AmhKpSTAlV.png" tvg-chno="171" group-title="Kids",Nickelodeon
+https://botallen.live/j/Nickelodeon/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="548" tvg-name="Nickelodeon Jr." tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/SopUCQwYIf.png" tvg-chno="173" group-title="Kids",Nickelodeon Jr.
+https://botallen.live/j/Nickelodeon_Jr/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Nick_Junior_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="544" tvg-name="Nick Junior" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/XMeSRduvFa.png" tvg-chno="174" group-title="Kids",Nick Junior
+https://botallen.live/j/Nick_Junior_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="463" tvg-name="Discovery HD World" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/FYDJaRGROw.png" tvg-chno="175" group-title="Infotainment",Discovery HD World
+https://botallen.live/j/Discovery_HD_World/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="872" tvg-name="Sony Yay Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/pRXOahTKqV.png" tvg-chno="176" group-title="Kids",Sony Yay Hindi
+https://botallen.live/j/Sony_Yay_Hindi/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="242" tvg-name="Discovery" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/VrhSSxrXwb.png" tvg-chno="178" group-title="Infotainment",Discovery
+https://botallen.live/j/Discovery/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="567" tvg-name="Animal Planet English" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/NmqOnPqErz.png" tvg-chno="179" group-title="Infotainment",Animal Planet English
+https://botallen.live/j/Animal_Planet_English/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="286" tvg-name="Animal Planet HD World" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/DIxMLqPzIn.png" tvg-chno="180" group-title="Infotainment",Animal Planet HD World
+https://botallen.live/j/Animal_Planet_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="578" tvg-name="History TV18 HD Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/motNJHaFWI.png" tvg-chno="181" group-title="Infotainment",History TV18 HD Hindi
+https://botallen.live/j/History_18_Hindi/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="568" tvg-name="Discovery Science" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/bpLblEUTAR.png" tvg-chno="182" group-title="Infotainment",Discovery Science
+https://botallen.live/j/Discovery_Science/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="821" tvg-name="Sony BBC Earth HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/LNXSDFONvO.png" tvg-chno="183" group-title="Infotainment",Sony BBC Earth HD
+https://botallen.live/j/Sony_BBC_Earth_HD/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/History_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="146" tvg-name="History TV18 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/mUqojVHZkI.png" tvg-chno="184" group-title="Infotainment",History TV18 HD
+https://botallen.live/j/History_HD_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="481" tvg-name="Epic" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/uykQvLexjA.png" tvg-chno="185" group-title="Entertainment",Epic
+https://botallen.live/j/Epic_HD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="479" tvg-name="TLC HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/IGqbqCCGTL.png" tvg-chno="186" group-title="Lifestyle",TLC HD
+https://botallen.live/j/TLC_HD_World/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="574" tvg-name="TLC English" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/byeRojbKjc.png" tvg-chno="187" group-title="Lifestyle",TLC English
+https://botallen.live/j/TLC_English/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="571" tvg-name="TLC Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/qCzsJdfCnL.png" tvg-chno="188" group-title="Lifestyle",TLC Hindi
+https://botallen.live/j/TLC_Hindi/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="541" tvg-name="Discovery Turbo" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/eUJtDdLhrH.png" tvg-chno="189" group-title="Infotainment",Discovery Turbo
+https://botallen.live/j/Discovery_Turbo/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1447" tvg-name="TV Teacher" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/YqjiFVTKrr.png" tvg-chno="190" group-title="Educational",TV Teacher
+https://botallen.live/j/TV_Teacher/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="562" tvg-name="Travel XP HD Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/ARIlRYiblZ.png" tvg-chno="191" group-title="Lifestyle",Travel XP HD Hindi
+https://botallen.live/j/Travel_XP/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Travel_XP_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="164" tvg-name="Travel XP HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/oPcWNMTjrZ.png" tvg-chno="192" group-title="Infotainment",Travel XP HD
+https://botallen.live/j/Travel_XP_HD_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Sadhguru_Television_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1201" tvg-name="Sadhguru Television HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/SPJOQnmPjz.png" tvg-chno="193" group-title="Devotional",Sadhguru Television HD
+https://botallen.live/j/Sadhguru_Television_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Mahawani_10th_English_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1445" tvg-name="Dnyanganga 10th English" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/aYzaLupUij.png" tvg-chno="194" group-title="Educational",Dnyanganga 10th English
+https://botallen.live/j/Mahawani_10th_English_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Food_Food_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="561" tvg-name="Food Food" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/VlYRqrxwWx.png" tvg-chno="195" group-title="Lifestyle",Food Food
+https://botallen.live/j/Food_Food_MOB/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1449" tvg-name="Parmarth TV" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/QKqoCFbMNS.png" tvg-chno="197" group-title="Devotional",Parmarth TV
+https://botallen.live/j/Parmarth_TV/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Care_World_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="582" tvg-name="Care World" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/REpyHSodiX.png" tvg-chno="198" group-title="Infotainment",Care World
+https://botallen.live/j/Care_World_MOB/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Dnyanganga_9_English_Medium_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1472" tvg-name="Dnyanganga 9th English" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/XfmUruyJaG.png" tvg-chno="200" group-title="Educational",Dnyanganga 9th English
+https://botallen.live/j/Dnyanganga_9_English_Medium_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="866" tvg-name="Jio Exclusive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/OaieWjiLrj.png" tvg-chno="202" group-title="Entertainment",Jio Exclusive HD
+https://botallen.live/j/Jio_Exclusive/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jio_Events_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="871" tvg-name="Jio Events HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/JOvWgHEAAH.png" tvg-chno="203" group-title="Infotainment",Jio Events HD
+https://botallen.live/j/Jio_Events_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/MTV_HD_Plus_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1145" tvg-name="MTV HD Plus" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/gCnjVdXpCN.png" tvg-chno="204" group-title="Music",MTV HD Plus
+https://botallen.live/j/MTV_HD_Plus_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="248" tvg-name="MTV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/XLUgbzGezH.png" tvg-chno="205" group-title="Music",MTV
+https://botallen.live/j/MTV/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/9XM_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="587" tvg-name="9XM" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/YSGwcxmHUI.jpg" tvg-chno="206" group-title="Music",9XM
+https://botallen.live/j/9XM_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/E_24_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="591" tvg-name="E 24" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/cVCJjCCGbG.png" tvg-chno="207" group-title="Music",E 24
+https://botallen.live/j/E_24_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/MTV_Beats_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="753" tvg-name="MTV Beats HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/kJJCWyggSO.png" tvg-chno="208" group-title="Music",MTV Beats HD
+https://botallen.live/j/MTV_Beats_HD_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="852" tvg-name="Sony BBC Earth HD English" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WmqvSvCQFU.png" tvg-chno="209" group-title="Infotainment",Sony BBC Earth HD English
+https://botallen.live/j/Sony_BBC_Earth_HD_English/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="589" tvg-name="Zee etc" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/FqxKhoZGPF.png" tvg-chno="210" group-title="Music",Zee etc
+https://botallen.live/j/etc/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/B4U_Music_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="183" tvg-name="B4U Music" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/iWAgMzgcns.png" tvg-chno="211" group-title="Music",B4U Music
+https://botallen.live/j/B4U_Music_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Mastiii_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="584" tvg-name="Mastiii" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/hMpYOMKaek.png" tvg-chno="212" group-title="Music",Mastiii
+https://botallen.live/j/Mastiii_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Insight_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="888" tvg-name="Insight HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/iLebSEYwxe.png" tvg-chno="213" group-title="Infotainment",Insight HD
+https://botallen.live/j/Insight_HD_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/9X_Jalwa_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="440" tvg-name="9X Jalwa" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/NihsRsOwBH.png" tvg-chno="214" group-title="Music",9X Jalwa
+https://botallen.live/j/9X_Jalwa_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="585" tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/fRZdEzXvHM.png" tvg-chno="215" group-title="Music",Zing
+https://botallen.live/j/Zing/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Music_India_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="250" tvg-name="Music India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/nhrTWptAga.png" tvg-chno="216" group-title="Music",Music India
+https://botallen.live/j/Music_India_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="566" tvg-name="Animal Planet Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/xjLvVdqqjx.png" tvg-chno="217" group-title="Infotainment",Animal Planet Hindi
+https://botallen.live/j/Animal_Planet_Hindi/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/MI_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1529" tvg-name="MI TV" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/dBydUliNyd.png" tvg-chno="218" group-title="Sports",MI TV
+https://botallen.live/j/MI_TV_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="575" tvg-name="Discovery Channel Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/jKNiOAOvvQ.png" tvg-chno="219" group-title="Infotainment",Discovery Channel Hindi
+https://botallen.live/j/Discovery_Channel_Hindi/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Raj_Pariwar_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="533" tvg-name="Raj Pariwar" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/HXgwdibOKg.png" tvg-chno="220" group-title="Entertainment",Raj Pariwar
+https://botallen.live/j/Raj_Pariwar_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1280" tvg-name="Manoranjan TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/euHrqDIxNj.png" tvg-chno="221" group-title="Movies",Manoranjan TV
+https://botallen.live/j/Manoranjan_TV/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/B4U_Kadak_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1295" tvg-name="B4U Kadak" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/McluvlKNEt.png" tvg-chno="222" group-title="Movies",B4U Kadak
+https://botallen.live/j/B4U_Kadak_MOB/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Insync_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1286" tvg-name="Insync" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/HLcWQtKiJv.png" tvg-chno="224" group-title="Music",Insync
+https://botallen.live/j/Insync_MOB/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ANB_News_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1287" tvg-name="ANB News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/HTFJEpajdp.png" tvg-chno="225" group-title="News",ANB News
+https://botallen.live/j/ANB_News_MOB/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="608" tvg-name="Shubhsandesh TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/pqERFBOKsn.png" tvg-chno="226" group-title="Devotional",Shubhsandesh TV
+https://botallen.live/j/Shubhsandesh_TV/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/iLove_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1267" tvg-name="iLove" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/mWotHDnmou.png" tvg-chno="227" group-title="Music",iLove
+https://botallen.live/j/iLove_MOB/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Darshan_24_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="611" tvg-name="Darshan 24" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/uUFFToJKeM.png" tvg-chno="228" group-title="Devotional",Darshan 24
+https://botallen.live/j/Darshan_24_MOB/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1278" tvg-name="Prarthana Bhawan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/VNvKaIztHa.png" tvg-chno="229" group-title="Devotional",Prarthana Bhawan
+https://botallen.live/j/Prarthana_Bhawan/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Network_10_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1528" tvg-name="Network 10" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/GJZUovmRRw.png" tvg-chno="230" group-title="News",Network 10
+https://botallen.live/j/Network_10_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="801" tvg-name="Divya TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/yswnAJdLqO.png" tvg-chno="231" group-title="Devotional",Divya TV
+https://botallen.live/j/Divya_TV/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Birla_Brainiacs_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1521" tvg-name="Birla Brainiacs" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/tMpOSBBnvZ.png" tvg-chno="232" group-title="Educational",Birla Brainiacs
+https://botallen.live/j/Birla_Brainiacs_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/School_Education_Nagaland_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1493" tvg-name="School Education Nagaland" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/bRXezZLzaE.png" tvg-chno="233" group-title="Educational",School Education Nagaland
+https://botallen.live/j/School_Education_Nagaland_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1530" tvg-name="Sony Pix SD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/MUiKpOwfqt.png" tvg-chno="234" group-title="Movies",Sony Pix SD
+https://botallen.live/j/Sony_Pix_SD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1542" tvg-name="Tute" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/opJVXPVequ.png" tvg-chno="235" group-title="Educational",Tute
+https://botallen.live/j/Tute/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Gyanvani_1_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1531" tvg-name="Gyanvani 1" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/RhOOLbzfUX.png" tvg-chno="236" group-title="Educational",Gyanvani 1
+https://botallen.live/j/Gyanvani_1_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Bflix_Movies_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1266" tvg-name="Bflix Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/IjQGhrcVpa.png" tvg-chno="237" group-title="Movies",Bflix Movies
+https://botallen.live/j/Bflix_Movies_MOB/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Chardham_Darshan_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1533" tvg-name="Chardham Darshan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/AlbCSeNbhH.png" tvg-chno="238" group-title="JioDarshan",Chardham Darshan
+https://botallen.live/j/Chardham_Darshan_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1564" tvg-name="Himshiksha Vocational" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/nBmDAcKOsl.png" tvg-chno="239" group-title="Educational",Himshiksha Vocational
+https://botallen.live/j/Himshiksha_Vocational/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1563" tvg-name="Himshiksha Higher" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/gxezUbvXjv.png" tvg-chno="240" group-title="Educational",Himshiksha Higher
+https://botallen.live/j/Himshiksha_Higher/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1562" tvg-name="Himshiksha Elementary" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/dTFjdFVAHi.png" tvg-chno="241" group-title="Educational",Himshiksha Elementary
+https://botallen.live/j/Himshiksha_Elementary/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1565" tvg-name="AP-BIE-ARTS" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/MmMQWjUXZA.png" tvg-chno="243" group-title="Educational",AP-BIE-ARTS
+https://botallen.live/j/AP_BIE_ARTS/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1590" tvg-name="Sanskrit" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/egHjtnJpYX.png" tvg-chno="244" group-title="Educational",Sanskrit
+https://botallen.live/j/Sanskrit/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1566" tvg-name="AP-BIE-SCIENCE" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/VuUxFTVkwG.png" tvg-chno="245" group-title="Educational",AP-BIE-SCIENCE
+https://botallen.live/j/AP_BIE_SCIENCE/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1611" tvg-name="Ortho TV" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/ayjFdaPHmL.png" tvg-chno="246" group-title="Educational",Ortho TV
+https://botallen.live/j/Ortho_TV/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1327" tvg-name="Comedy Central SD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/qBosTrMBFL.png" tvg-chno="247" group-title="Entertainment",Comedy Central SD
+https://botallen.live/j/Comedy_Central_SD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1607" tvg-name="Manav Dharam" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/HfWurlPBgu.png" tvg-chno="248" group-title="Devotional",Manav Dharam
+https://botallen.live/j/Manav_Dharam/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1613" tvg-name="Medha Secondary" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/pImLTRwBGX.png" tvg-chno="249" group-title="Educational",Medha Secondary
+https://botallen.live/j/Medha_Secondary/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1393" tvg-name="Sony Wah" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/JDwzvrTQMT.png" tvg-chno="250" group-title="Entertainment",Sony Wah
+https://botallen.live/j/Sony_Wah/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1425" tvg-name="1Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/AzhBVXvhOL.png" tvg-chno="252" group-title="Sports",1Sports
+https://botallen.live/j/1Sports/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Santvani_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1426" tvg-name="Santvani" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/PIPetqmumh.png" tvg-chno="253" group-title="Devotional",Santvani
+https://botallen.live/j/Santvani_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1411" tvg-name="SongDew TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/lCOTfZbfNO.png" tvg-chno="254" group-title="Music",SongDew TV
+https://botallen.live/j/SongDew_TV/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1396" tvg-name="Sony SD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/KWYqXGFMtd.png" tvg-chno="255" group-title="Entertainment",Sony SD
+https://botallen.live/j/Sony_SD/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Mahawani_English_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1443" tvg-name="Dnyanganga 12th Science" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/PITzFlldNh.png" tvg-chno="257" group-title="Educational",Dnyanganga 12th Science
+https://botallen.live/j/Mahawani_English_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1450" tvg-name="Rishtey Cineplex" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/kfrwTbdlAp.png" tvg-chno="259" group-title="Movies",Rishtey Cineplex
+https://botallen.live/j/Rishtey_Cineplex/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/M_lead_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1446" tvg-name="M-LEAD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/TskIumTSrc.png" tvg-chno="260" group-title="Educational",M-LEAD
+https://botallen.live/j/M_lead_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Dnyanganga_3_4_Mar_Eng_Urdhu_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1465" tvg-name="Dnyanganga 3rd-4th Mar-Eng-Urdu" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/gTxXVxnBpG.png" tvg-chno="261" group-title="Educational",Dnyanganga 3rd-4th Mar-Eng-Urdu
+https://botallen.live/j/Dnyanganga_3_4_Mar_Eng_Urdhu_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1325" tvg-name="Colors Infinity SD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WHmUsCGMkf.png" tvg-chno="262" group-title="Entertainment",Colors Infinity SD
+https://botallen.live/j/Colors_Infinity_SD/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Dnyanganga_7_Mar_Eng_Urdhu_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1468" tvg-name="Dnyanganga 7th Mar-Eng-Urdu" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/jEnUmmUWMr.png" tvg-chno="263" group-title="Educational",Dnyanganga 7th Mar-Eng-Urdu
+https://botallen.live/j/Dnyanganga_7_Mar_Eng_Urdhu_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Dnyanganga_8_Mar_Eng_Urdhu_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1469" tvg-name="Dnyanganga 8th Mar-Eng-Urdu" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/ymVLzHdbDO.png" tvg-chno="264" group-title="Educational",Dnyanganga 8th Mar-Eng-Urdu
+https://botallen.live/j/Dnyanganga_8_Mar_Eng_Urdhu_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Dnyanganga_6_Mar_Eng_Urdhu_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1467" tvg-name="Dnyanganga 6th Mar-Eng-Urdu" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/dLIDHeYXBk.png" tvg-chno="265" group-title="Educational",Dnyanganga 6th Mar-Eng-Urdu
+https://botallen.live/j/Dnyanganga_6_Mar_Eng_Urdhu_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1567" tvg-name="AP-CIE-SIVE" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/zaLOwdeiEf.png" tvg-chno="266" group-title="Educational",AP-CIE-SIVE
+https://botallen.live/j/AP_CIE_SIVE/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1544" tvg-name="Shiksha Darshan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/oKOGaPwMhc.png" tvg-chno="267" group-title="Educational",Shiksha Darshan
+https://botallen.live/j/Shiksha_Darshan/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Subharti_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1543" tvg-name="Subharti" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/yowvKhtVNK.png" tvg-chno="268" group-title="Devotional",Subharti
+https://botallen.live/j/Subharti_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1471" tvg-name="History TV18 SD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/fZnUiOOguO.png" tvg-chno="272" group-title="Infotainment",History TV18 SD
+https://botallen.live/j/History_TV18_SD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1593" tvg-name="Lifology" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/fnWoOSnjqT.png" tvg-chno="276" group-title="Educational",Lifology
+https://botallen.live/j/Lifology/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/MY_ZEN_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1596" tvg-name="MY ZEN HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/mHLNVvmpnC.png" tvg-chno="277" group-title="Lifestyle",MY ZEN HD
+https://botallen.live/j/MY_ZEN_HD_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/FTV_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1598" tvg-name="FTV HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/kEsZweMRZw.png" tvg-chno="278" group-title="Lifestyle",FTV HD
+https://botallen.live/j/FTV_HD_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/InWild_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1599" tvg-name="InWild HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/IXtdncscIZ.png" tvg-chno="279" group-title="Infotainment",InWild HD
+https://botallen.live/j/InWild_HD_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1614" tvg-name="Omnicuris" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/FaWwVkdsIJ.png" tvg-chno="280" group-title="Educational",Omnicuris
+https://botallen.live/j/Omnicuris/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/HitsIndia_HD_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1603" tvg-name="HITS HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/eeeYATMTFE.png" tvg-chno="281" group-title="Entertainment",HITS HD
+https://botallen.live/j/HitsIndia_HD_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Dnyanganga_5_Mar_Eng_Urdhu_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1466" tvg-name="Dnyanganga 5th Mar-Eng-Urdu" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/PusYQuTeQp.png" tvg-chno="286" group-title="Educational",Dnyanganga 5th Mar-Eng-Urdu
+https://botallen.live/j/Dnyanganga_5_Mar_Eng_Urdhu_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Disha_tv_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="599" tvg-name="Disha tv" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/FErDMhAZhG.png" tvg-chno="287" group-title="Devotional",Disha tv
+https://botallen.live/j/Disha_tv_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Jinvani_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="596" tvg-name="Jinvani TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/uNSrWGkRyy.png" tvg-chno="288" group-title="Devotional",Jinvani TV
+https://botallen.live/j/Jinvani_TV_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Aastha_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="175" tvg-name="Aastha" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/SHWrKrmkXT.png" tvg-chno="290" group-title="Devotional",Aastha
+https://botallen.live/j/Aastha_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Sanskar_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="288" tvg-name="Sanskar" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/hjkweirzTo.png" tvg-chno="291" group-title="Devotional",Sanskar
+https://botallen.live/j/Sanskar_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Arihant_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="466" tvg-name="Arihant TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/hJdDZSwYfO.png" tvg-chno="293" group-title="Devotional",Arihant TV
+https://botallen.live/j/Arihant_TV_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Ishwar_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="601" tvg-name="Ishwar TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/sqgHlQtigO.png" tvg-chno="294" group-title="Devotional",Ishwar TV
+https://botallen.live/j/Ishwar_TV_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Satsang_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="597" tvg-name="Satsang TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/NWXcwPuZXm.png" tvg-chno="295" group-title="Devotional",Satsang TV
+https://botallen.live/j/Satsang_TV_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Shubh_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="828" tvg-name="Shubh TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/AqkRWDFiTk.png" tvg-chno="296" group-title="Devotional",Shubh TV
+https://botallen.live/j/Shubh_TV_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Aastha_Bhajan_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="594" tvg-name="Aastha Bhajan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/BGWZOpAtPd.png" tvg-chno="297" group-title="Devotional",Aastha Bhajan
+https://botallen.live/j/Aastha_Bhajan_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Vedic_TV_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="856" tvg-name="Vedic TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/EbpxDnirKy.png" tvg-chno="298" group-title="Devotional",Vedic TV
+https://botallen.live/j/Vedic_TV_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ETV_UP_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="530" tvg-name="News18 UP" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/fWqJvdonEr.png" tvg-chno="299" group-title="News",News18 UP
+https://botallen.live/j/ETV_UP_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="532" tvg-name="Dabangg" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/OUTSuWMfID.png" tvg-chno="302" group-title="Entertainment",Dabangg
+https://botallen.live/j/Dabangg/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ETV_RAJASTHAN_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="531" tvg-name="News18 RAJASTHAN" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/qKWwHJqJdV.png" tvg-chno="305" group-title="News",News18 RAJASTHAN
+https://botallen.live/j/ETV_RAJASTHAN_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="659" tvg-name="Zee Rajasthan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/oMlcNjiCxQ.png" tvg-chno="306" group-title="News",Zee Rajasthan
+https://botallen.live/j/Zee_Rajasthan/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ETV_MP_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="529" tvg-name="News18 MP" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/LaSglXLkua.png" tvg-chno="308" group-title="News",News18 MP
+https://botallen.live/j/ETV_MP_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="927" tvg-name="First India News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/LcSPFLPacr.png" tvg-chno="309" group-title="News",First India News
+https://botallen.live/j/First_India_News/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/IBC24_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="503" tvg-name="IBC24" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/SXBmAunKKt.png" tvg-chno="310" group-title="News",IBC24
+https://botallen.live/j/IBC24_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Paras_tv_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="602" tvg-name="Paras tv" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/lEKlAnuEyV.png" tvg-chno="311" group-title="Devotional",Paras tv
+https://botallen.live/j/Paras_tv_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="658" tvg-name="Zee News MP Chattisgarh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/nnLKnltjdd.png" tvg-chno="312" group-title="News",Zee News MP Chattisgarh
+https://botallen.live/j/Zee_News_MP_Chattisgarh/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Bansal_News_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1179" tvg-name="Bansal News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/ZPFOBrvqOi.png" tvg-chno="313" group-title="News",Bansal News
+https://botallen.live/j/Bansal_News_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Sadhna_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="593" tvg-name="Sadhna" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/pCNrzeXGIZ.png" tvg-chno="314" group-title="Devotional",Sadhna
+https://botallen.live/j/Sadhna_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_bharati_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="580" tvg-name="DD bharati" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/hogZiBQSXd.png" tvg-chno="318" group-title="Infotainment",DD bharati
+https://botallen.live/j/DD_bharati_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Peace_of_Mind_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="794" tvg-name="Peace of Mind" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/pgiJOjvxsi.png" tvg-chno="320" group-title="Devotional",Peace of Mind
+https://botallen.live/j/Peace_of_Mind_MOB/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Rajasthan_Jaipur_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="538" tvg-name="DD Rajasthan (Jaipur)" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/WqfWBadyTO.png" tvg-chno="321" group-title="Entertainment",DD Rajasthan (Jaipur)
+https://botallen.live/j/DD_Rajasthan_Jaipur_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Bihar_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="539" tvg-name="DD Bihar" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/YuzBxLOjtS.png" tvg-chno="322" group-title="Entertainment",DD Bihar
+https://botallen.live/j/DD_Bihar_BTS/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/DD_Madhya_Pradesh_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="536" tvg-name="DD Madhya Pradesh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/zGTFdQuxCE.png" tvg-chno="323" group-title="Entertainment",DD Madhya Pradesh
+https://botallen.live/j/DD_Madhya_Pradesh_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1247" tvg-name="Jio Promo HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/CKZFSzpnIb.png" tvg-chno="325" group-title="Infotainment",Jio Promo HD
+https://botallen.live/j/Barker/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/CVR_English_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="787" tvg-name="CVR English" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/dBVfKsFtaf.png" tvg-chno="382" group-title="News",CVR English
+https://botallen.live/j/CVR_English_MOB/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/GoodNews_Channel_MOB
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="907" tvg-name="GoodNews Channel" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/hTISUIBXJD.png" tvg-chno="481" group-title="News",GoodNews Channel
+https://botallen.live/j/GoodNews_Channel_MOB/master.mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/Andy_Haryana_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1076" tvg-name="Andy Haryana" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/EKqMMRSLSq.png" tvg-chno="483" group-title="Entertainment",Andy Haryana
+https://botallen.live/j/Andy_Haryana_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="534" tvg-name="Dillagi TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/qbdNOwKNgu.png" tvg-chno="485" group-title="Entertainment",Dillagi TV
+https://botallen.live/j/Dillagi_TV/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="535" tvg-name="Dhamaal TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/oPGFiUThvq.png" tvg-chno="487" group-title="Entertainment",Dhamaal TV
+https://botallen.live/j/Dhamaal_TV/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1279" tvg-name="Manoranjan Grand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/YcmqMTfKMN.png" tvg-chno="488" group-title="Entertainment",Manoranjan Grand
+https://botallen.live/j/Manoranjan_Grand/master.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://botallen.live/j/wv/ETV_Haryana_and_HP_News_BTS
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="655" tvg-name="News18 Haryana and HP News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/rhlXqUnSwt.png" tvg-chno="490" group-title="News",News18 Haryana and HP News
+https://botallen.live/j/ETV_Haryana_and_HP_News_BTS/master.mpd
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1251" tvg-name="TV9 Bharatvarsh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/bTWjERcmYY.png" tvg-chno="510" group-title="News",TV9 Bharatvarsh
+https://botallen.live/j/TV9_BHARATVARSH/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1259" tvg-name="Surya Bhakti" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/wSJqKHhhZl.png" tvg-chno="513" group-title="Devotional",Surya Bhakti
+https://botallen.live/j/Surya_Bhakti/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1257" tvg-name="Surya Samachar" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/OrPBSgImHu.png" tvg-chno="515" group-title="News",Surya Samachar
+https://botallen.live/j/Surya_Samachar/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1258" tvg-name="Surya Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/kClcaNOxNg.png" tvg-chno="516" group-title="Movies",Surya Cinema
+https://botallen.live/j/Surya_Cinema/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="823" tvg-name="Sony BBC Earth SD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/UeCAqrmAQX.png" tvg-chno="519" group-title="Infotainment",Sony BBC Earth SD
+https://botallen.live/j/Sony_BBC_Earth_SD/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="1263" tvg-name="Total Tv Haryana" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/rpUrOBkotP.png" tvg-chno="521" group-title="News",Total Tv Haryana
+https://botallen.live/j/Total_Tv_Haryana/master.m3u8
+#EXTVLCOPT:http-user-agent=KAIOS
+#EXTINF:-1 tvg-id="289" tvg-name="Sony Max SD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/j/HOeymDVETh.png" tvg-chno="522" group-title="Movies",Sony Max SD
+https://botallen.live/j/SET_MAX/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zing" tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/gxYXDknovz.png" tvg-chno="525" group-title="Music",Zing
+https://botallen.live/z/0-9-zing/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeecinema" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/GFBfKOLpVk.png" tvg-chno="526" group-title="Movies",Zee Cinema
+https://botallen.live/z/0-9-zeecinema/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" tvg-name="Zee Cinema HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/phWZgucUCw.png" tvg-chno="527" group-title="Movies",Zee Cinema HD
+https://botallen.live/z/0-9-zeecinemahd/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeetvhd" tvg-name="Zee TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/skoqHhdiqY.png" tvg-chno="528" group-title="Entertainment",Zee TV HD
+https://botallen.live/z/0-9-zeetvhd/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-tvhd_0" tvg-name="&TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/VcyUCTcLxM.png" tvg-chno="529" group-title="Entertainment",&TV HD
+https://botallen.live/z/0-9-tvhd_0/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" tvg-name="&Pictures HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/bxbSPBbIna.png" tvg-chno="530" group-title="Entertainment",&Pictures HD
+https://botallen.live/z/0-9-tvpictureshd/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-209" tvg-name="&xplorHD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/yWzdkgPYse.png" tvg-chno="531" group-title="Movies",&xplorHD
+https://botallen.live/z/0-9-209/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeetv" tvg-name="Zee TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/rhYkApJETY.png" tvg-chno="532" group-title="Entertainment",Zee TV
+https://botallen.live/z/0-9-zeetv/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-290" tvg-name="ZEE5 Kids" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/WdiguOJUNX.png" tvg-chno="533" group-title="Kids",ZEE5 Kids
+https://botallen.live/z/0-9-290/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeerajasthannews" tvg-name="Zee Rajasthan News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/thDcbxhgtY.png" tvg-chno="539" group-title="News",Zee Rajasthan News
+https://botallen.live/z/0-9-zeerajasthannews/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeesalaam" tvg-name="Zee Salaam" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/izMShUEfzX.png" tvg-chno="540" group-title="Entertainment",Zee Salaam
+https://botallen.live/z/0-9-zeesalaam/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-channel_265145625" tvg-name="Zee News Uttar Pradesh Uttrakhand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/BqhAmCGMgu.png" tvg-chno="542" group-title="News",Zee News Uttar Pradesh Uttrakhand
+https://botallen.live/z/0-9-channel_265145625/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeenews" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/VNGUozqwyD.png" tvg-chno="544" group-title="News",Zee News
+https://botallen.live/z/0-9-zeenews/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" tvg-name="Zee Madhya Pradesh Chhattisgarh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/KQeIolTXKC.png" tvg-chno="547" group-title="News",Zee Madhya Pradesh Chhattisgarh
+https://botallen.live/z/0-9-zeemadhyapradeshchat/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeehindustan" tvg-name="Zee Hindustan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/xKFAiuZUwE.png" tvg-chno="550" group-title="News",Zee Hindustan
+https://botallen.live/z/0-9-zeehindustan/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-176" tvg-name="Zee Classic" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/PrENIiJwQh.png" tvg-chno="551" group-title="Movies",Zee Classic
+https://botallen.live/z/0-9-176/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-etc" tvg-name="Zee ETC Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/spDorJTNtD.png" tvg-chno="553" group-title="Entertainment",Zee ETC Bollywood
+https://botallen.live/z/0-9-etc/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeebusiness" tvg-name="Zee Business" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/ltRnltwUFQ.png" tvg-chno="554" group-title="Business",Zee Business
+https://botallen.live/z/0-9-zeebusiness/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeecafehd" tvg-name="Zee Café HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/RWlRjPqVVl.png" tvg-chno="555" group-title="Entertainment",Zee Café HD
+https://botallen.live/z/0-9-zeecafehd/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeeclassic" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/ACScurquYf.png" tvg-chno="556" group-title="Movies",Zee Bollywood
+https://botallen.live/z/0-9-zeeclassic/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" tvg-name="Zee Bihar Jharkhand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/DjPMJOcNSc.png" tvg-chno="558" group-title="News",Zee Bihar Jharkhand
+https://botallen.live/z/0-9-zeebiharjharkhand/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-name="Zee Anmol Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/YrEDvoQqIw.png" tvg-chno="559" group-title="Movies",Zee Anmol Cinema
+https://botallen.live/z/0-9-zeeanmolcinema/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeeanmol" tvg-name="Zee Anmol" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/sxrzQwZPlV.png" tvg-chno="562" group-title="Entertainment",Zee Anmol
+https://botallen.live/z/0-9-zeeanmol/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-zeeaction" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/DYpJFgWnIk.png" tvg-chno="563" group-title="Movies",Zee Action
+https://botallen.live/z/0-9-zeeaction/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-wion" tvg-name="WION" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/YmldBljhgk.png" tvg-chno="566" group-title="News",WION
+https://botallen.live/z/0-9-wion/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-251" tvg-name="TV9 Bharatvarsh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/dCjTpMUObI.png" tvg-chno="572" group-title="News",TV9 Bharatvarsh
+https://botallen.live/z/0-9-251/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-317" tvg-name="TIME8" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/qJComxZPTY.png" tvg-chno="575" group-title="News",TIME8
+https://botallen.live/z/0-9-317/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-255" tvg-name="Tez" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/lTfGfpnOeU.png" tvg-chno="576" group-title="News",Tez
+https://botallen.live/z/0-9-255/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-181" tvg-name="The Q " tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/SudAejvzDG.png" tvg-chno="577" group-title="Entertainment",The Q 
+https://botallen.live/z/0-9-181/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-185" tvg-name="Sports Flashes - Hindi" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/TfheJifnBa.png" tvg-chno="580" group-title="Sports",Sports Flashes - Hindi
+https://botallen.live/z/0-9-185/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-299" tvg-name="Sounds of ZEE5 - Originals" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/UXNbZKicmj.png" tvg-chno="583" group-title="Entertainment",Sounds of ZEE5 - Originals
+https://botallen.live/z/0-9-299/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-219" tvg-name="Showbox" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/kvpBsVOGzM.png" tvg-chno="585" group-title="Music",Showbox
+https://botallen.live/z/0-9-219/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-302" tvg-name="Sounds of ZEE5 - EDM" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/HjGZwNtyiK.png" tvg-chno="586" group-title="Entertainment",Sounds of ZEE5 - EDM
+https://botallen.live/z/0-9-302/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-channel_1565694979" tvg-name="Satsang TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/usvxEdDTZK.png" tvg-chno="588" group-title="Devotional",Satsang TV
+https://botallen.live/z/0-9-channel_1565694979/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-284" tvg-name="Sadhna TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/uCsOoMUCyT.png" tvg-chno="589" group-title="Devotional",Sadhna TV
+https://botallen.live/z/0-9-284/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-channel_1144658965" tvg-name="Sanskar TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/avqwiAIfMt.png" tvg-chno="590" group-title="Devotional",Sanskar TV
+https://botallen.live/z/0-9-channel_1144658965/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-313" tvg-name="Sadhna Plus News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/WPiyWPIlGn.png" tvg-chno="592" group-title="News",Sadhna Plus News
+https://botallen.live/z/0-9-313/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-channel_1422341819" tvg-name="Republic TV" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/OleREsujAj.png" tvg-chno="593" group-title="News",Republic TV
+https://botallen.live/z/0-9-channel_1422341819/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-319" tvg-name="Sadhna News MP/CG" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/KbFnVfCZSq.png" tvg-chno="594" group-title="News",Sadhna News MP/CG
+https://botallen.live/z/0-9-319/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-162" tvg-name="Republic Bharat" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/popQuuxcnj.png" tvg-chno="595" group-title="News",Republic Bharat
+https://botallen.live/z/0-9-162/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-273" tvg-name="News X" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/uOAncmhzMi.png" tvg-chno="598" group-title="News",News X
+https://botallen.live/z/0-9-273/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-296" tvg-name="Non-stop EDM" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/KMUuCWZgJo.png" tvg-chno="599" group-title="Entertainment",Non-stop EDM
+https://botallen.live/z/0-9-296/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-172" tvg-name="News State Madhya Pradesh Chhattisgarh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/oopsWpBFoo.png" tvg-chno="600" group-title="News",News State Madhya Pradesh Chhattisgarh
+https://botallen.live/z/0-9-172/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-206" tvg-name="News24" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/nKnLjAkqMj.png" tvg-chno="601" group-title="News",News24
+https://botallen.live/z/0-9-206/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-171" tvg-name="News State Uttar Pradesh Uttrakhand" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/uVZdycFuub.png" tvg-chno="602" group-title="News",News State Uttar Pradesh Uttrakhand
+https://botallen.live/z/0-9-171/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-170" tvg-name="News Nation" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/vAUKlIwqox.png" tvg-chno="603" group-title="News",News Nation
+https://botallen.live/z/0-9-170/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-261" tvg-name="News 9" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/oJXWehxeYe.png" tvg-chno="605" group-title="News",News 9
+https://botallen.live/z/0-9-261/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-280" tvg-name="NE News" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/oJQHhwqPJu.png" tvg-chno="607" group-title="News",NE News
+https://botallen.live/z/0-9-280/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-166" tvg-name="Krishna Vani" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/PxAfesvJRh.png" tvg-chno="608" group-title="Devotional",Krishna Vani
+https://botallen.live/z/0-9-166/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-livingfoodz" tvg-name="Living Foodz" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/lBqVzIjLus.png" tvg-chno="610" group-title="Lifestyle",Living Foodz
+https://botallen.live/z/0-9-livingfoodz/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-282" tvg-name="India TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/gVKRKUFZxF.png" tvg-chno="611" group-title="News",India TV
+https://botallen.live/z/0-9-282/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-indiatoday" tvg-name="India Today" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/ylbCtuZhvM.png" tvg-chno="612" group-title="News",India Today
+https://botallen.live/z/0-9-indiatoday/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-285" tvg-name="Ishwar  TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/hcPGbRFGAa.png" tvg-chno="613" group-title="Devotional",Ishwar  TV
+https://botallen.live/z/0-9-285/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-276" tvg-name="India News Rajasthan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/htVfcTqpZa.png" tvg-chno="614" group-title="News",India News Rajasthan
+https://botallen.live/z/0-9-276/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-275" tvg-name="India News UP" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/jXyIzqKnpz.png" tvg-chno="615" group-title="News",India News UP
+https://botallen.live/z/0-9-275/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-277" tvg-name="India News MP" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/EVxAAuXtor.png" tvg-chno="616" group-title="News",India News MP
+https://botallen.live/z/0-9-277/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-278" tvg-name="India News Haryana" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/FmUrdzbuvB.png" tvg-chno="617" group-title="News",India News Haryana
+https://botallen.live/z/0-9-278/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-272" tvg-name="India News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/qmhLCKSITe.png" tvg-chno="620" group-title="News",India News
+https://botallen.live/z/0-9-272/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-183" tvg-name="Hare Krsna" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/kaaSVyssxA.png" tvg-chno="621" group-title="Devotional",Hare Krsna
+https://botallen.live/z/0-9-183/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-207" tvg-name="E24" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/tVinYtJsjm.png" tvg-chno="622" group-title="Music",E24
+https://botallen.live/z/0-9-207/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-divyatv" tvg-name="Divya TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/wqUimsNoYt.png" tvg-chno="623" group-title="Devotional",Divya TV
+https://botallen.live/z/0-9-divyatv/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-229" tvg-name="Epic TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/AsWnjnWMQP.png" tvg-chno="624" group-title="Lifestyle",Epic TV
+https://botallen.live/z/0-9-229/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-245" tvg-name="Dish Positive" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/ouuVXbhDBq.png" tvg-chno="625" group-title="News",Dish Positive
+https://botallen.live/z/0-9-245/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-dduttarpradesh" tvg-name="DD Uttar Pradesh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/OdteFidtjs.png" tvg-chno="627" group-title="Entertainment",DD Uttar Pradesh
+https://botallen.live/z/0-9-dduttarpradesh/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-ddurdu" tvg-name="DD Urdu" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/iRvPULYCGP.png" tvg-chno="628" group-title="Entertainment",DD Urdu
+https://botallen.live/z/0-9-ddurdu/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-ddnews" tvg-name="DD News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/jbSpxbboXC.png" tvg-chno="632" group-title="News",DD News
+https://botallen.live/z/0-9-ddnews/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-ddrajasthanjaipur" tvg-name="DD Rajasthan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/PJEpgjqgnH.png" tvg-chno="633" group-title="Entertainment",DD Rajasthan
+https://botallen.live/z/0-9-ddrajasthanjaipur/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-250" tvg-name="DD National HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/OdihddpqgE.png" tvg-chno="634" group-title="Entertainment",DD National HD
+https://botallen.live/z/0-9-250/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-ddmadhyapradesh" tvg-name="DD Madhya Pradesh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/BGPmugnIzO.png" tvg-chno="636" group-title="Entertainment",DD Madhya Pradesh
+https://botallen.live/z/0-9-ddmadhyapradesh/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-ddkisan" tvg-name="DD Kisan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/qtoeQAeBXp.png" tvg-chno="637" group-title="Infotainment",DD Kisan
+https://botallen.live/z/0-9-ddkisan/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-ddindia" tvg-name="DD India" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/SkeRbcYOKk.png" tvg-chno="640" group-title="Entertainment",DD India
+https://botallen.live/z/0-9-ddindia/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-ddbihar" tvg-name="DD Bihar" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/kGwEteqkXF.png" tvg-chno="641" group-title="Entertainment",DD Bihar
+https://botallen.live/z/0-9-ddbihar/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-ddbharati" tvg-name="DD Bharati" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/DTgkMBGYuc.png" tvg-chno="642" group-title="Infotainment",DD Bharati
+https://botallen.live/z/0-9-ddbharati/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-165" tvg-name="Boogle Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/kPwsEQqEul.png" tvg-chno="645" group-title="Entertainment",Boogle Bollywood
+https://botallen.live/z/0-9-165/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" tvg-name="Big Magic" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/xSjflcCGfq.png" tvg-chno="646" group-title="Entertainment",Big Magic
+https://botallen.live/z/0-9-bigmagic_1786965389/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-131" tvg-name="9XM" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/fKAvglboZM.png" tvg-chno="647" group-title="Music",9XM
+https://botallen.live/z/0-9-131/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-aajtak" tvg-name="Aaj Tak" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/ffUGbhcVnZ.png" tvg-chno="650" group-title="News",Aaj Tak
+https://botallen.live/z/0-9-aajtak/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-133" tvg-name="9X Jalwa" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/fBEytHawoJ.png" tvg-chno="653" group-title="Music",9X Jalwa
+https://botallen.live/z/0-9-133/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/FeDDImELPr.png" tvg-chno="654" group-title="Entertainment",&flix
+https://botallen.live/z/0-9-channel_2105335046/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-pictures" tvg-name="&Pictures" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/nfHXhjmAhb.png" tvg-chno="655" group-title="Movies",&Pictures
+https://botallen.live/z/0-9-pictures/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" tvg-name="&flix" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/FeDDImELPr.png" tvg-chno="656" group-title="Entertainment",&flix
+https://botallen.live/z/0-9-channel_2105335046/master.m3u8
+#EXTVLCOPT:http-user-agent=Zee5
+#EXTINF:-1 tvg-id="0-9-privéhd" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/z/hmZWeDQUMD.jpg" tvg-chno="657" group-title="Entertainment",&Prive HD
+https://botallen.live/z/0-9-privéhd/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="SETHD" tvg-name="SET Live" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/FjapDmZsuL.png" tvg-chno="659" group-title="Drama",SET Live
+https://botallen.live/s/SETHD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="SABHD" tvg-name="SAB" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/cIUVFfnXLv.png" tvg-chno="660" group-title="Comedy",SAB
+https://botallen.live/s/SABHD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="SonyPalSD" tvg-name="PAL" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/ROObckJTsX.png" tvg-chno="662" group-title="Drama",PAL
+https://botallen.live/s/SonyPalSD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="SonyYaySD" tvg-name="Sony YAY" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/fgxUmALSMH.png" tvg-chno="664" group-title="Kids",Sony YAY
+https://botallen.live/s/SonyYaySD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="SonyMaxhd" tvg-name="MAX" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/QBsnYVxoLL.png" tvg-chno="665" group-title="Bollywood",MAX
+https://botallen.live/s/SonyMaxhd/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="SonyWah" tvg-name="Sony WAH" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/ckGoaRDTRy.png" tvg-chno="666" group-title="Action",Sony WAH
+https://botallen.live/s/SonyWah/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="PIXHD" tvg-name="PIX" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/rvxXGSDkAZ.png" tvg-chno="667" group-title="Hollywood",PIX
+https://botallen.live/s/PIXHD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="SONYSIXHD" tvg-name="SIX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/CpUpLKYQTC.png" tvg-chno="668" group-title="Sports",SIX HD
+https://botallen.live/s/SONYSIXHD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="TEN1HD" tvg-name="Ten 1 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/iZFiJqyRDW.png" tvg-chno="669" group-title="Sports",Ten 1 HD
+https://botallen.live/s/TEN1HD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="TEN2HD" tvg-name="Ten 2 HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/jbmAtnLqgg.png" tvg-chno="670" group-title="Sports",Ten 2 HD
+https://botallen.live/s/TEN2HD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="TEN3SD" tvg-name="Ten 3" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/gmhrNqbfad.png" tvg-chno="671" group-title="Sports",Ten 3
+https://botallen.live/s/TEN3SD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="TEN1SD" tvg-name="Ten 1" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/QxHUtaJgRu.png" tvg-chno="672" group-title="Sports",Ten 1
+https://botallen.live/s/TEN1SD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="TEN2SD" tvg-name="Ten 2" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/WhoCqXSAFp.png" tvg-chno="673" group-title="Sports",Ten 2
+https://botallen.live/s/TEN2SD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="TEN3HD" tvg-name="Ten 3 HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/BQVTNwLVPz.png" tvg-chno="674" group-title="Sports",Ten 3 HD
+https://botallen.live/s/TEN3HD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="SONYSIXSD" tvg-name="SIX SD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/wMqVmuncqG.png" tvg-chno="675" group-title="Sports",SIX SD
+https://botallen.live/s/SONYSIXSD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="SonyBBCEarthHD" tvg-name="Sony BBC Earth HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/fBNPHHCQJS.png" tvg-chno="676" group-title="Wildlife/Nature",Sony BBC Earth HD
+https://botallen.live/s/SonyBBCEarthHD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="SonyMaxSD" tvg-name="Sony MAX SD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/sCpurjCVrQ.png" tvg-chno="677" group-title="Bollywood",Sony MAX SD
+https://botallen.live/s/SonyMaxSD/master.m3u8
+#EXTVLCOPT:http-user-agent=SonyLIV
+#EXTINF:-1 tvg-id="MAX2" tvg-name="Sony MAX 2 SD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/s/SXYZOkZSxV.png" tvg-chno="678" group-title="Drama",Sony MAX 2 SD
+https://botallen.live/s/MAX2/master.m3u8
+#EXTINF:-1 tvg-id="ts1" tvg-name="INDIA TODAY" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/zGNtDohZKB.png" tvg-chno="679" group-title="News",INDIA TODAY
+https://botallen.live/t/1/master.m3u8
+#EXTINF:-1 tvg-id="ts7" tvg-name="B4U Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/PvMxAMNlWc.png" tvg-chno="682" group-title="Movies",B4U Movies
+https://botallen.live/t/7/master.m3u8
+#EXTINF:-1 tvg-id="ts9" tvg-name="B4U Music" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/JXEgBsKHbG.png" tvg-chno="684" group-title="Music",B4U Music
+https://botallen.live/t/9/master.m3u8
+#EXTINF:-1 tvg-id="ts14" tvg-name="India News Rajasthan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/PyHRCQnCsT.png" tvg-chno="687" group-title="News",India News Rajasthan
+https://botallen.live/t/14/master.m3u8
+#EXTINF:-1 tvg-id="ts17" tvg-name="Mastiii" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/eOqUomLcuf.png" tvg-chno="689" group-title="Music",Mastiii
+https://botallen.live/t/17/master.m3u8
+#EXTINF:-1 tvg-id="ts32" tvg-name="SONY PIX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/sZEaVYREcG.png" tvg-chno="695" group-title="Movies",SONY PIX HD
+https://botallen.live/t/32/master.m3u8
+#EXTINF:-1 tvg-id="ts35" tvg-name="SONY SIX HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/DiEHPSECKQ.png" tvg-chno="697" group-title="Sports",SONY SIX HD
+https://botallen.live/t/35/master.m3u8
+#EXTINF:-1 tvg-id="ts36" tvg-name="News Nation" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/alqiEioLOF.png" tvg-chno="698" group-title="News",News Nation
+https://botallen.live/t/36/master.m3u8
+#EXTINF:-1 tvg-id="ts38" tvg-name="Aastha" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/TfjEJkCbed.png" tvg-chno="699" group-title="Devotional",Aastha
+https://botallen.live/t/38/master.m3u8
+#EXTINF:-1 tvg-id="ts39" tvg-name="9X Jalwa" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ogXVXSpTHT.png" tvg-chno="700" group-title="Music",9X Jalwa
+https://botallen.live/t/39/master.m3u8
+#EXTINF:-1 tvg-id="ts43" tvg-name="Sanskar" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/yJJjdVFfmc.png" tvg-chno="702" group-title="Devotional",Sanskar
+https://botallen.live/t/43/master.m3u8
+#EXTINF:-1 tvg-id="ts52" tvg-name="Colors HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/JgLheBRhKQ.png" tvg-chno="707" group-title="Entertainment",Colors HD
+https://botallen.live/t/52/master.m3u8
+#EXTINF:-1 tvg-id="ts53" tvg-name="Colors Cineplex" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/eEsIGfbsEm.png" tvg-chno="708" group-title="Movies",Colors Cineplex
+https://botallen.live/t/53/master.m3u8
+#EXTINF:-1 tvg-id="ts56" tvg-name="SONY WAH" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/OpeSFqdpsn.png" tvg-chno="710" group-title="Entertainment",SONY WAH
+https://botallen.live/t/56/master.m3u8
+#EXTINF:-1 tvg-id="ts60" tvg-name="DW" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/PrdTrNvcIK.png" tvg-chno="711" group-title="News",DW
+https://botallen.live/t/60/master.m3u8
+#EXTINF:-1 tvg-id="ts61" tvg-name="Colors Cineplex HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/BmPGzjUWll.png" tvg-chno="712" group-title="Movies",Colors Cineplex HD
+https://botallen.live/t/61/master.m3u8
+#EXTINF:-1 tvg-id="ts63" tvg-name="Zee TV HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/wXsAehFbMb.png" tvg-chno="713" group-title="Entertainment",Zee TV HD
+https://botallen.live/t/63/master.m3u8
+#EXTINF:-1 tvg-id="ts64" tvg-name="Zee Anmol Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ENYdMQURQG.png" tvg-chno="714" group-title="Movies",Zee Anmol Cinema
+https://botallen.live/t/64/master.m3u8
+#EXTINF:-1 tvg-id="ts72" tvg-name="REPUBLIC TV" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/LrVWMxdkpW.png" tvg-chno="716" group-title="News",REPUBLIC TV
+https://botallen.live/t/72/master.m3u8
+#EXTINF:-1 tvg-id="ts80" tvg-name="SONY MAX HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/pQcYawClLo.png" tvg-chno="720" group-title="Movies",SONY MAX HD
+https://botallen.live/t/80/master.m3u8
+#EXTINF:-1 tvg-id="ts100" tvg-name="Zee Action" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/TIckHTwWsy.png" tvg-chno="728" group-title="Movies",Zee Action
+https://botallen.live/t/100/master.m3u8
+#EXTINF:-1 tvg-id="ts104" tvg-name="India TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/zHbAzfQfga.png" tvg-chno="730" group-title="News",India TV
+https://botallen.live/t/104/master.m3u8
+#EXTINF:-1 tvg-id="ts113" tvg-name="Discovery Science" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/hGLXhsTXtG.png" tvg-chno="734" group-title="Infotainment",Discovery Science
+https://botallen.live/t/113/master.m3u8
+#EXTINF:-1 tvg-id="ts117" tvg-name="Food Food" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/DZIBUIaNPA.png" tvg-chno="736" group-title="Lifestyle",Food Food
+https://botallen.live/t/117/master.m3u8
+#EXTINF:-1 tvg-id="ts123" tvg-name="Zee Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/kweiXIUpak.png" tvg-chno="740" group-title="Movies",Zee Cinema
+https://botallen.live/t/123/master.m3u8
+#EXTINF:-1 tvg-id="ts126" tvg-name="EPIC" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/vuwxTuzqCB.png" tvg-chno="741" group-title="Entertainment",EPIC
+https://botallen.live/t/126/master.m3u8
+#EXTINF:-1 tvg-id="ts139" tvg-name="9XM" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/svqWqdGHMN.png" tvg-chno="749" group-title="Music",9XM
+https://botallen.live/t/139/master.m3u8
+#EXTINF:-1 tvg-id="ts153" tvg-name="Aaj Tak" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/LjaaxbgnaG.png" tvg-chno="756" group-title="News",Aaj Tak
+https://botallen.live/t/153/master.m3u8
+#EXTINF:-1 tvg-id="ts175" tvg-name="Zee Bollywood" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/CuuKMMvMNC.png" tvg-chno="762" group-title="Movies",Zee Bollywood
+https://botallen.live/t/175/master.m3u8
+#EXTINF:-1 tvg-id="ts183" tvg-name="India News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/YOyQWiKySf.png" tvg-chno="767" group-title="News",India News
+https://botallen.live/t/183/master.m3u8
+#EXTINF:-1 tvg-id="ts187" tvg-name="Colors Infinity HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/aKlBupmJsd.png" tvg-chno="768" group-title="Entertainment",Colors Infinity HD
+https://botallen.live/t/187/master.m3u8
+#EXTINF:-1 tvg-id="ts190" tvg-name="Al Jazeera" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/RFZKEKFYMl.png" tvg-chno="771" group-title="News",Al Jazeera
+https://botallen.live/t/190/master.m3u8
+#EXTINF:-1 tvg-id="ts191" tvg-name="DD National" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/lcQnPjOGqX.png" tvg-chno="772" group-title="Entertainment",DD National
+https://botallen.live/t/191/master.m3u8
+#EXTINF:-1 tvg-id="ts204" tvg-name="CNBC Awaaz" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/GcwQnjujhW.png" tvg-chno="777" group-title="Business",CNBC Awaaz
+https://botallen.live/t/204/master.m3u8
+#EXTINF:-1 tvg-id="ts205" tvg-name="News18 Rajasthan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/EzQJYRTPKv.png" tvg-chno="778" group-title="News",News18 Rajasthan
+https://botallen.live/t/205/master.m3u8
+#EXTINF:-1 tvg-id="ts209" tvg-name="News 24" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/fkwlbQkvWJ.png" tvg-chno="782" group-title="News",News 24
+https://botallen.live/t/209/master.m3u8
+#EXTINF:-1 tvg-id="ts223" tvg-name="DD Sports" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/kCdcmEavfS.png" tvg-chno="789" group-title="Sports",DD Sports
+https://botallen.live/t/223/master.m3u8
+#EXTINF:-1 tvg-id="ts228" tvg-name="Discovery Turbo" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/SMHgBDayGe.png" tvg-chno="792" group-title="Infotainment",Discovery Turbo
+https://botallen.live/t/228/master.m3u8
+#EXTINF:-1 tvg-id="ts242" tvg-name="WB" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/UByigCTfIQ.png" tvg-chno="796" group-title="Movies",WB
+https://botallen.live/t/242/master.m3u8
+#EXTINF:-1 tvg-id="ts243" tvg-name="CNN" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/nhlMEWqRGB.png" tvg-chno="797" group-title="News",CNN
+https://botallen.live/t/243/master.m3u8
+#EXTINF:-1 tvg-id="ts255" tvg-name="WION" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/qcsYhJurBk.png" tvg-chno="802" group-title="News",WION
+https://botallen.live/t/255/master.m3u8
+#EXTINF:-1 tvg-id="ts259" tvg-name="Zee News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/fIhjhIBlDg.png" tvg-chno="804" group-title="News",Zee News
+https://botallen.live/t/259/master.m3u8
+#EXTINF:-1 tvg-id="ts260" tvg-name="Zee Business" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/AQlgmyDxkw.png" tvg-chno="805" group-title="Business",Zee Business
+https://botallen.live/t/260/master.m3u8
+#EXTINF:-1 tvg-id="ts278" tvg-name="TEZ" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/rGgNDWUJkM.png" tvg-chno="811" group-title="News",TEZ
+https://botallen.live/t/278/master.m3u8
+#EXTINF:-1 tvg-id="ts283" tvg-name="Aastha Bhajan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/XDKBxgcetv.png" tvg-chno="812" group-title="Devotional",Aastha Bhajan
+https://botallen.live/t/283/master.m3u8
+#EXTINF:-1 tvg-id="ts287" tvg-name="Animal Planet HD World" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ZrgSsGjSPp.png" tvg-chno="814" group-title="Infotainment",Animal Planet HD World
+https://botallen.live/t/287/master.m3u8
+#EXTINF:-1 tvg-id="ts324" tvg-name="DD India" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/ZgefqWFmhf.png" tvg-chno="824" group-title="Entertainment",DD India
+https://botallen.live/t/324/master.m3u8
+#EXTINF:-1 tvg-id="ts330" tvg-name="DD Madhya Pradesh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/hISlRpQTUg.png" tvg-chno="825" group-title="Entertainment",DD Madhya Pradesh
+https://botallen.live/t/330/master.m3u8
+#EXTINF:-1 tvg-id="ts346" tvg-name="Disha TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/xhxZNXWZFT.png" tvg-chno="827" group-title="Devotional",Disha TV
+https://botallen.live/t/346/master.m3u8
+#EXTINF:-1 tvg-id="ts347" tvg-name="HBO HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/hEMIlzxWaS.png" tvg-chno="828" group-title="Movies",HBO HD
+https://botallen.live/t/347/master.m3u8
+#EXTINF:-1 tvg-id="ts446" tvg-name="Paras TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/orfqPjKLfN.png" tvg-chno="843" group-title="Devotional",Paras TV
+https://botallen.live/t/446/master.m3u8
+#EXTINF:-1 tvg-id="ts460" tvg-name="SONY BBC Earth HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/mgYuYkZdOy.png" tvg-chno="845" group-title="Infotainment",SONY BBC Earth HD
+https://botallen.live/t/460/master.m3u8
+#EXTINF:-1 tvg-id="ts480" tvg-name="TLC HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/uubwOpSXkT.png" tvg-chno="848" group-title="Lifestyle",TLC HD
+https://botallen.live/t/480/master.m3u8
+#EXTINF:-1 tvg-id="ts503" tvg-name="Zee Cinema HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/YsHAojhVSc.png" tvg-chno="851" group-title="Movies",Zee Cinema HD
+https://botallen.live/t/503/master.m3u8
+#EXTINF:-1 tvg-id="ts514" tvg-name="Zee Hindustan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/uKujIddCZV.png" tvg-chno="853" group-title="News",Zee Hindustan
+https://botallen.live/t/514/master.m3u8
+#EXTINF:-1 tvg-id="ts633" tvg-name="Investigation Discovery" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/aWdxkBKImz.png" tvg-chno="871" group-title="Entertainment",Investigation Discovery
+https://botallen.live/t/633/master.m3u8
+#EXTINF:-1 tvg-id="ts685" tvg-name="India Voice" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/DZjtyKqEcv.png" tvg-chno="884" group-title="News",India Voice
+https://botallen.live/t/685/master.m3u8
+#EXTINF:-1 tvg-id="ts693" tvg-name="Eurosport" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/qzuYuDKUBx.png" tvg-chno="886" group-title="Sports",Eurosport
+https://botallen.live/t/693/master.m3u8
+#EXTINF:-1 tvg-id="ts706" tvg-name="TV9 Bharatvarsh" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/MnUztEYPNV.png" tvg-chno="890" group-title="News",TV9 Bharatvarsh
+https://botallen.live/t/706/master.m3u8
+#EXTINF:-1 tvg-id="ts731" tvg-name="Manoranjan TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/iYFFHtDaSx.png" tvg-chno="894" group-title="Movies",Manoranjan TV
+https://botallen.live/t/731/master.m3u8
+#EXTINF:-1 tvg-id="ts780" tvg-name="Housefull Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/qCkjqpEEUx.png" tvg-chno="898" group-title="Movies",Housefull Movies
+https://botallen.live/t/780/master.m3u8
+#EXTINF:-1 tvg-id="ts812" tvg-name="Eurosport HD" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/CEdoNUuwBg.png" tvg-chno="904" group-title="Sports",Eurosport HD
+https://botallen.live/t/812/master.m3u8
+#EXTINF:-1 tvg-id="ts815" tvg-name="1sports" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/YxgdAFvlZm.png" tvg-chno="906" group-title="Sports",1sports
+https://botallen.live/t/815/master.m3u8
+#EXTINF:-1 tvg-id="ts296" tvg-name="Bflix Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/nyMjrmBnTv.png" tvg-chno="964" group-title="Movies",Bflix Movies
+https://botallen.live/t/296/master.m3u8
+#EXTINF:-1 tvg-id="ts316" tvg-name="DD Bharati" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/XbXoONTKGX.png" tvg-chno="967" group-title="Infotainment",DD Bharati
+https://botallen.live/t/316/master.m3u8
+#EXTINF:-1 tvg-id="ts317" tvg-name="DD Bihar" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/iHfJSnIaXT.png" tvg-chno="968" group-title="Entertainment",DD Bihar
+https://botallen.live/t/317/master.m3u8
+#EXTINF:-1 tvg-id="ts322" tvg-name="DD News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/QHTLllgMrf.png" tvg-chno="970" group-title="News",DD News
+https://botallen.live/t/322/master.m3u8
+#EXTINF:-1 tvg-id="ts326" tvg-name="DD Kisan" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/NILyqNZtHZ.png" tvg-chno="973" group-title="Infotainment",DD Kisan
+https://botallen.live/t/326/master.m3u8
+#EXTINF:-1 tvg-id="ts341" tvg-name="Discovery HD World" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/GvNfYquzEb.png" tvg-chno="982" group-title="Infotainment",Discovery HD World
+https://botallen.live/t/341/master.m3u8
+#EXTINF:-1 tvg-id="ts401" tvg-name="MH One News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/WJwZsgpVbF.png" tvg-chno="998" group-title="News",MH One News
+https://botallen.live/t/401/master.m3u8
+#EXTINF:-1 tvg-id="ts405" tvg-name="MTV Beats HD" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/LvKzjNnWiv.png" tvg-chno="999" group-title="Music",MTV Beats HD
+https://botallen.live/t/405/master.m3u8
+#EXTINF:-1 tvg-id="ts420" tvg-name="Peace of Mind" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/GUhIefcntf.png" tvg-chno="1006" group-title="Devotional",Peace of Mind
+https://botallen.live/t/420/master.m3u8
+#EXTINF:-1 tvg-id="ts433" tvg-name="Nick HD+" tvg-language="English" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/OUGLcXkjBP.png" tvg-chno="1014" group-title="Kids",Nick HD+
+https://botallen.live/t/433/master.m3u8
+#EXTINF:-1 tvg-id="ts458" tvg-name="Shubh TV" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/QixCNceefo.png" tvg-chno="1019" group-title="Devotional",Shubh TV
+https://botallen.live/t/458/master.m3u8
+#EXTINF:-1 tvg-id="ts517" tvg-name="Zing" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/JcvjxjvHMF.png" tvg-chno="1036" group-title="Music",Zing
+https://botallen.live/t/517/master.m3u8
+#EXTINF:-1 tvg-id="ts628" tvg-name="Insync" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/sRWQsLhmok.png" tvg-chno="1056" group-title="Music",Insync
+https://botallen.live/t/628/master.m3u8
+#EXTINF:-1 tvg-id="ts670" tvg-name="Surya Cinema" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/nAqMgNIenk.png" tvg-chno="1061" group-title="Movies",Surya Cinema
+https://botallen.live/t/670/master.m3u8
+#EXTINF:-1 tvg-id="ts787" tvg-name="ANB NEWS" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://assets.botallen.live/images/t/agVpGfGUCh.png" tvg-chno="1065" group-title="News",ANB NEWS
+https://botallen.live/t/787/master.m3u8
